@@ -889,6 +889,10 @@
       "destination": "/platforms/javascript/guides/vue/"
    },
     {
+      "source": "/platforms/javascript/performance/capturing/group-transactions/",
+      "destination": "/platforms/javascript/performance/"
+   },
+    {
       "source": "/platforms/apple/guides/([^/]*)/configuration/integrations/([^/]*)/",
       "destination": "/platforms/apple/guides/$1/integrations/$2/"
     }
